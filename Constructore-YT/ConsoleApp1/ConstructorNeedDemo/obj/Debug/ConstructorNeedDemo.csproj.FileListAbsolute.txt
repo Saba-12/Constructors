@@ -1,0 +1,8 @@
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ConstructorNeedDemo\bin\Debug\ConstructorNeedDemo.exe.config
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ConstructorNeedDemo\bin\Debug\ConstructorNeedDemo.exe
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ConstructorNeedDemo\bin\Debug\ConstructorNeedDemo.pdb
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ConstructorNeedDemo\obj\Debug\ConstructorNeedDemo.csproj.AssemblyReference.cache
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ConstructorNeedDemo\obj\Debug\ConstructorNeedDemo.csproj.SuggestedBindingRedirects.cache
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ConstructorNeedDemo\obj\Debug\ConstructorNeedDemo.csproj.CoreCompileInputs.cache
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ConstructorNeedDemo\obj\Debug\ConstructorNeedDemo.exe
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ConstructorNeedDemo\obj\Debug\ConstructorNeedDemo.pdb
