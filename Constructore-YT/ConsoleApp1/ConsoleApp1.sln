@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplicitConstructorDemo", "ExplicitConstructorDemo\ExplicitConstructorDemo.csproj", "{41EB7143-DC8F-4D1D-8184-659DFD140BE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParameterizedConstructor", "ParameterizedConstructor\ParameterizedConstructor.csproj", "{A1248BA9-9BF4-407B-B635-D3B23B68152C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{41EB7143-DC8F-4D1D-8184-659DFD140BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41EB7143-DC8F-4D1D-8184-659DFD140BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41EB7143-DC8F-4D1D-8184-659DFD140BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1248BA9-9BF4-407B-B635-D3B23B68152C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1248BA9-9BF4-407B-B635-D3B23B68152C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1248BA9-9BF4-407B-B635-D3B23B68152C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1248BA9-9BF4-407B-B635-D3B23B68152C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

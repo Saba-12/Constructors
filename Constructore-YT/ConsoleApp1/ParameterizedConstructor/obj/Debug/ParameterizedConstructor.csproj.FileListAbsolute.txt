@@ -1,0 +1,8 @@
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ParameterizedConstructor\bin\Debug\ParameterizedConstructor.exe.config
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ParameterizedConstructor\bin\Debug\ParameterizedConstructor.exe
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ParameterizedConstructor\bin\Debug\ParameterizedConstructor.pdb
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ParameterizedConstructor\obj\Debug\ParameterizedConstructor.csproj.AssemblyReference.cache
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ParameterizedConstructor\obj\Debug\ParameterizedConstructor.csproj.SuggestedBindingRedirects.cache
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ParameterizedConstructor\obj\Debug\ParameterizedConstructor.csproj.CoreCompileInputs.cache
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ParameterizedConstructor\obj\Debug\ParameterizedConstructor.exe
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ParameterizedConstructor\obj\Debug\ParameterizedConstructor.pdb
