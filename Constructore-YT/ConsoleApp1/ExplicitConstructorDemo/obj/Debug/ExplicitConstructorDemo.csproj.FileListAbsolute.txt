@@ -1,0 +1,7 @@
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ExplicitConstructorDemo\bin\Debug\ExplicitConstructorDemo.exe.config
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ExplicitConstructorDemo\bin\Debug\ExplicitConstructorDemo.exe
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ExplicitConstructorDemo\bin\Debug\ExplicitConstructorDemo.pdb
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ExplicitConstructorDemo\obj\Debug\ExplicitConstructorDemo.csproj.SuggestedBindingRedirects.cache
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ExplicitConstructorDemo\obj\Debug\ExplicitConstructorDemo.csproj.CoreCompileInputs.cache
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ExplicitConstructorDemo\obj\Debug\ExplicitConstructorDemo.exe
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\ExplicitConstructorDemo\obj\Debug\ExplicitConstructorDemo.pdb
