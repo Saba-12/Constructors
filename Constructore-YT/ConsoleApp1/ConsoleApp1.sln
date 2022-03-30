@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplicitConstructorDemo", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParameterizedConstructor", "ParameterizedConstructor\ParameterizedConstructor.csproj", "{A1248BA9-9BF4-407B-B635-D3B23B68152C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyConstrutor", "CopyConstrutor\CopyConstrutor.csproj", "{95582D9A-751A-4D1E-A305-DDA5379A799E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A1248BA9-9BF4-407B-B635-D3B23B68152C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1248BA9-9BF4-407B-B635-D3B23B68152C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1248BA9-9BF4-407B-B635-D3B23B68152C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95582D9A-751A-4D1E-A305-DDA5379A799E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95582D9A-751A-4D1E-A305-DDA5379A799E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95582D9A-751A-4D1E-A305-DDA5379A799E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95582D9A-751A-4D1E-A305-DDA5379A799E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

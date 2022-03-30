@@ -1,0 +1,7 @@
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\CopyConstrutor\bin\Debug\CopyConstrutor.exe.config
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\CopyConstrutor\bin\Debug\CopyConstrutor.exe
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\CopyConstrutor\bin\Debug\CopyConstrutor.pdb
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\CopyConstrutor\obj\Debug\CopyConstrutor.csproj.SuggestedBindingRedirects.cache
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\CopyConstrutor\obj\Debug\CopyConstrutor.csproj.CoreCompileInputs.cache
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\CopyConstrutor\obj\Debug\CopyConstrutor.exe
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\CopyConstrutor\obj\Debug\CopyConstrutor.pdb
