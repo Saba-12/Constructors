@@ -10,7 +10,7 @@ namespace CopyConstrutor
     {
         int x;
 
-        public Program(int i)
+        public Program(int i)                              //Paramterized Constructor
         {
             x = i;
         }
@@ -20,7 +20,7 @@ namespace CopyConstrutor
             Console.WriteLine("Value of x = "+x);
         }
 
-        public Program(Program obj)
+        public Program(Program obj)                       //Copy constructore
         {
             x = obj.x;
         }
