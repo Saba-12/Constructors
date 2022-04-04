@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2b8ca46f-0861-49c4-af19-29e114510166": {
+      "ProjectGuid": "2b8ca46f-0861-49c4-af19-29e114510166",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "41eb7143-dc8f-4d1d-8184-659dfd140be2": {
+      "ProjectGuid": "41eb7143-dc8f-4d1d-8184-659dfd140be2",
+      "DisplayName": "ExplicitConstructorDemo",
+      "ColorIndex": 1
+    },
+    "a1248ba9-9bf4-407b-b635-d3b23b68152c": {
+      "ProjectGuid": "a1248ba9-9bf4-407b-b635-d3b23b68152c",
+      "DisplayName": "ParameterizedConstructor",
+      "ColorIndex": 2
+    },
+    "95582d9a-751a-4d1e-a305-dda5379a799e": {
+      "ProjectGuid": "95582d9a-751a-4d1e-a305-dda5379a799e",
+      "DisplayName": "CopyConstrutor",
+      "ColorIndex": 3
+    },
+    "02e4599d-5ef5-4365-bb4c-c460c0dbc6d2": {
+      "ProjectGuid": "02e4599d-5ef5-4365-bb4c-c460c0dbc6d2",
+      "DisplayName": "StaticConstructor",
+      "ColorIndex": 4
+    },
+    "84ac9eaa-62bc-42e2-b93c-f95aa7d412f0": {
+      "ProjectGuid": "84ac9eaa-62bc-42e2-b93c-f95aa7d412f0",
+      "DisplayName": "ConstructorNeedDemo",
+      "ColorIndex": 5
+    },
+    "6543e7b1-9f78-4ef1-b188-af12f7fdbe09": {
+      "ProjectGuid": "6543e7b1-9f78-4ef1-b188-af12f7fdbe09",
+      "DisplayName": "StaticVsNonStaticConstructor",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

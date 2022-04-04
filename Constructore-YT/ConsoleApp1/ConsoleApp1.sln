@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticConstructor", "Static
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorNeedDemo", "ConstructorNeedDemo\ConstructorNeedDemo.csproj", "{84AC9EAA-62BC-42E2-B93C-F95AA7D412F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticVsNonStaticConstructor", "StaticVsNonStaticConstructor\StaticVsNonStaticConstructor.csproj", "{6543E7B1-9F78-4EF1-B188-AF12F7FDBE09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{84AC9EAA-62BC-42E2-B93C-F95AA7D412F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84AC9EAA-62BC-42E2-B93C-F95AA7D412F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84AC9EAA-62BC-42E2-B93C-F95AA7D412F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6543E7B1-9F78-4EF1-B188-AF12F7FDBE09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6543E7B1-9F78-4EF1-B188-AF12F7FDBE09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6543E7B1-9F78-4EF1-B188-AF12F7FDBE09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6543E7B1-9F78-4EF1-B188-AF12F7FDBE09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

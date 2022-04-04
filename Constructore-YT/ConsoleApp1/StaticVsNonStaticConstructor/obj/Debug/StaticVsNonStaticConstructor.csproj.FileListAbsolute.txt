@@ -1,0 +1,8 @@
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\StaticVsNonStaticConstructor\bin\Debug\StaticVsNonStaticConstructor.exe.config
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\StaticVsNonStaticConstructor\bin\Debug\StaticVsNonStaticConstructor.exe
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\StaticVsNonStaticConstructor\bin\Debug\StaticVsNonStaticConstructor.pdb
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\StaticVsNonStaticConstructor\obj\Debug\StaticVsNonStaticConstructor.csproj.AssemblyReference.cache
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\StaticVsNonStaticConstructor\obj\Debug\StaticVsNonStaticConstructor.csproj.SuggestedBindingRedirects.cache
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\StaticVsNonStaticConstructor\obj\Debug\StaticVsNonStaticConstructor.csproj.CoreCompileInputs.cache
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\StaticVsNonStaticConstructor\obj\Debug\StaticVsNonStaticConstructor.exe
+C:\C#_YT\Constructors\Constructore-YT\ConsoleApp1\StaticVsNonStaticConstructor\obj\Debug\StaticVsNonStaticConstructor.pdb
